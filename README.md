@@ -1,66 +1,76 @@
-# <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0b1020&height=220&section=header&text=Anas%20Abbasi&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Software%20Engineering%20Student)
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Software+Engineering+Student;C%2B%2B+%7C+Python+Developer;Building+Practical+Projects&center=true&width=700)](https://git.io/typing-svg)
 
-![OpenToWork](https://img.shields.io/badge/Open%20to-Work-success)
-![Profile Views](https://komarev.com/ghpvc/?username=AnasAbbasii&color=blue)
-![Followers](https://img.shields.io/github/followers/AnasAbbasii?label=Followers&style=social)
+<div align="center">
 
-## Who I Am
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1E4D3A,100:2F6B4F&text=Anas%20Abbasi&fontColor=ffffff&fontSize=48&animation=twinkling&desc=Software%20Engineering%20Student&descAlignY=65"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F6B4F&center=true&vCenter=true&width=650&lines=C%2B%2B+Developer;Python+Programmer;Software+Engineering+Student;Always+Learning+New+Things"/>
+
+![](https://img.shields.io/badge/Open_to_Work-2F6B4F?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=AnasAbbasii&style=for-the-badge&color=2F6B4F)
+![](https://img.shields.io/github/followers/AnasAbbasii?style=for-the-badge)
+
+</div>
+
+# 👨‍💻 Who I Am
 
 ```ts
 const anas = {
-  title: "Software Engineering Student",
-  stack: ["C++","Python","HTML","CSS","SQL"],
-  launchedProjects: ["Chat-Application-Console-based-","University-Management-System"],
-  certifications: [Python for everybody, AI essisials,version control],
-  status: "Learning and building projects",
-  openTo: true
+ name:"Anas Abbasi",
+ title:"Software Engineering Student",
+ languages:["C++","Python","HTML","CSS","SQL"],
+ projects:["Console Chat Application","University Management System"],
+ status:"Open to Internship & Full-Time Opportunities",
+ currentlyLearning:["Data Structures","OOP","Software Design"]
 }
 ```
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### Console based chat application
+## 💬 Console Based Chat Application
+Second semester software engineering project.
 
-![pin](https://github-readme-stats.vercel.app/api/pin/?username=AnasAbbasii&repo=Chat-Application-Console-based-&theme=nord)
+**Repository:** https://github.com/AnasAbbasii/Chat-Application-Console-based-
 
-| Layer | Technology |
-|---|---|
-| Language | C++ |
+Languages: C++
 
-Live: N/A  
-Code: https://github.com/AnasAbbasii/Chat-Application-Console-based-
+---
 
-### University Management System
+## 🏫 University Management System
 
-![pin](https://github-readme-stats.vercel.app/api/pin/?username=AnasAbbasii&repo=University-Management-System&theme=nord)
+First semester software engineering project.
 
-| Layer | Technology |
-|---|---|
-| Language | C++ |
+**Repository:** https://github.com/AnasAbbasii/University-Management-System
 
-Live: N/A  
-Code: https://github.com/AnasAbbasii/University-Management-System
+Languages: C++
 
-## Tech Stack
+# 💻 Tech Stack
 
-**Languages**  
-![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,mysql)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,mysql,git,vscode"/>
+</p>
 
-## GitHub Stats
+# 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AnasAbbasii&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAbbasii&layout=compact&theme=nord)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnasAbbasii&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAbbasii&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=AnasAbbasii&theme=nord)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AnasAbbasii&theme=github-dark-blue&hide_border=true"/>
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AnasAbbasii&theme=nord&no-frame=true&no-bg=true)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AnasAbbasii&theme=algolia&no-frame=true&no-bg=true&row=1"/>
+</p>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnasAbbasii&theme=nord)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasAbbasii&theme=github-dark"/>
+</p>
 
-## Connect
+# 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/AnasAbbasii)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AnasAbbasii)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0b1020&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1E4D3A,100:2F6B4F"/>
+

@@ -13,7 +13,7 @@ const anas = {
   title: "Software Engineering Student",
   stack: ["C++","Python","HTML","CSS","SQL"],
   launchedProjects: ["Chat-Application-Console-based-","University-Management-System"],
-  certifications: [],
+  certifications: [Python for everybody, AI essisials,version control],
   status: "Learning and building projects",
   openTo: true
 }

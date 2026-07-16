@@ -65,7 +65,7 @@ Languages: C++
 </p>
 
 <p align="center">
-<img src="https://ghchart.rshah.org/green/AnasAbbasii" alt="GitHub Contribution Graph"/>
+<img src="https://ghchart.rshah.org/AnasAbbasii" alt="Anas Abbasi's GitHub Contribution Chart"/>
 </p>
 
 # 📫 Connect

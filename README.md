@@ -65,7 +65,7 @@ Languages: C++
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/green/AnasAbbasii" alt="GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 # 📫 Connect

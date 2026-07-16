@@ -56,9 +56,6 @@ Languages: C++
 <img src="https://streak-stats.demolab.com?user=AnasAbbasii&theme=github-dark-blue&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnasAbbasii&theme=algolia&no-frame=true&no-bg=true&row=1"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasAbbasii&theme=github-dark&hide_border=true"/>

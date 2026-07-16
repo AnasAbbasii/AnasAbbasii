@@ -18,7 +18,7 @@ const anas = {
  name:"Anas Abbasi",
  title:"Software Engineering Student",
  languages:["C++","Python","HTML","CSS","SQL"],
- projects:["Console Chat Application","University Management System"],
+ projects:["Console Chat Application","University Management System","Github Repository Analyzer"],
  status:"Open to Internship & Full-Time Opportunities",
  currentlyLearning:["Data Structures","OOP","Software Design"]
 }

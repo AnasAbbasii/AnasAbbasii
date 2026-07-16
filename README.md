@@ -65,7 +65,7 @@ Languages: C++
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasAbbasii&theme=github-dark"/>
+<img src="https://ghchart.rshah.org/green/AnasAbbasii" alt="GitHub Contribution Graph"/>
 </p>
 
 # 📫 Connect

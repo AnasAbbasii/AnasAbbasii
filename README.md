@@ -65,7 +65,7 @@ Languages: C++
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnasAbbasii/AnasAbbasii/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasAbbasii&theme=github-dark&hide_border=true"/>
 </p>
 
 # 📫 Connect

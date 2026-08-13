@@ -24,24 +24,6 @@ const anas = {
 }
 ```
 
-# 🚀 Featured Projects
-
-## 💬 Console Based Chat Application
-Second semester software engineering project.
-
-**Repository:** https://github.com/AnasAbbasii/Chat-Application-Console-based-
-
-Languages: C++
-
----
-
-## 🏫 University Management System
-
-First semester software engineering project.
-
-**Repository:** https://github.com/AnasAbbasii/University-Management-System
-
-Languages: C++
 
 # 💻 Tech Stack
 

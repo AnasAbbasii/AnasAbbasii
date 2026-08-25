@@ -17,10 +17,10 @@
 const anas = {
  name:"Anas Abbasi",
  title:"Software Engineering Student",
- languages:["C++","Python","HTML","CSS","SQL"],
+ languages:["C++","Python","HTML","CSS","SQL","JavaScript"],
  projects:["Console Chat Application","University Management System","Github Repository Analyzer"],
  status:"Open to Internship & Full-Time Opportunities",
- currentlyLearning:["Data Structures","OOP","Software Design"]
+ currentlyLearning:["Data Structures","OOP","Web Development"]
 }
 ```
 

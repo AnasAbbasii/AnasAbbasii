@@ -80,7 +80,6 @@ A console-based guessing game developed while practicing programming fundamental
 # 📚 Currently Learning
 
 - 📌 Data Structures & Algorithms
-- 🧩 Object-Oriented Programming
 - 🌐 Full Stack Web Development
 - 🤖 Retrieval-Augmented Generation (RAG)
 - ⚙️ n8n Automation

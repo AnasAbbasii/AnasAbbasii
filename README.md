@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1E4D3A,100:2F6B4F&text=Anas%20Abbasi&fontColor=ffffff&fontSize=48&animation=twinkling&desc=Software%20Engineering%20Student&descAlignY=65" alt="Anas Abbasi"/>
@@ -90,6 +91,14 @@ A console-based guessing game developed while practicing programming fundamental
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AnasAbbasii&show_icons=true&hide_border=true&theme=dark&title_color=2F6B4F&icon_color=2F6B4F" alt="GitHub Statistics"/>
+</div>
+
+# 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnasAbbasii/AnasAbbasii/output/github-snake.svg" alt="GitHub Contribution Snake Animation"/>
+
 </div>
 
 # 🎯 Goals

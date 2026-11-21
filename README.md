@@ -97,7 +97,7 @@ A console-based guessing game developed while practicing programming fundamental
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AnasAbbasii/AnasAbbasii/output/github-snake.gif" alt="GitHub Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/AnasAbbasii/AnasAbbasii/output/github-snake.svg" alt="GitHub Contribution Snake Animation"/>
 
 </div>
 
